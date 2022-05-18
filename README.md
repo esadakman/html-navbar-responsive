@@ -1,4 +1,4 @@
-# nav_bar_responsive
+# nav_bar_1
 
 [Click Me!](https://esadakman.github.io/nav_bar_1/)
 
