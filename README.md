@@ -1,4 +1,4 @@
-# nav_bar_1
+# nav_bar_responsive
 
 My first responsive nav bar project. I use the media queries for the first time. You can reach my project from [here](https://esadakman.github.io/nav_bar_1/)
 
